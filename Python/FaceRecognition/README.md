@@ -1,1 +1,1 @@
-This is my work in progress face recognition program based on python and opencv.
+This is my work in progress face recognition program based on python and opencv. This program has its roots in the work done by realpython.com and Adrian Rosebrock of pyimagesearch.com. I have modified their code/ideas for my use. Feel free to do the same.
